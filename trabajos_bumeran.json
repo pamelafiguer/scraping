@@ -1,0 +1,164 @@
+{
+  "ofertas": [
+    {
+      "id": 1,
+      "titulo": "Desarrollador Python - Data",
+      "empresa": "JOY IT",
+      "ubicacion": "San Borja, Lima",
+      "modalidad": "Híbrido",
+      "tiempo_publicacion": "Actualizado hace 5 horas",
+      "calificacion": "No disponible",
+      "url": "https://www.bumeran.com.pe/empleos/desarrollador-python-data-joy-it-1116606992.html"
+    },
+    {
+      "id": 2,
+      "titulo": "Desarrollador Python - Data",
+      "empresa": "JOY IT",
+      "ubicacion": "Lima, Lima",
+      "modalidad": "Presencial",
+      "tiempo_publicacion": "Actualizado hace 5 horas",
+      "calificacion": "No disponible",
+      "url": "https://www.bumeran.com.pe/empleos/desarrollador-python-data-joy-it-1116604745.html"
+    },
+    {
+      "id": 3,
+      "titulo": "Analista Programador TIC (Python y Javascript)",
+      "empresa": "Win Empresas",
+      "ubicacion": "San Borja, Lima",
+      "modalidad": "Presencial",
+      "tiempo_publicacion": "Actualizado hace 9 días",
+      "calificacion": "2.4",
+      "url": "https://www.bumeran.com.pe/empleos/analista-programador-tic-python-y-javascript-win-empresas-1116603315.html"
+    },
+    {
+      "id": 4,
+      "titulo": "Analista de Indicadores - POWER APPS - PYTHON - SQL SERVER",
+      "empresa": "SODEXO PERU",
+      "ubicacion": "Ate Vitarte, Lima",
+      "modalidad": "Híbrido",
+      "tiempo_publicacion": "Actualizado hace más de 15 días",
+      "calificacion": "No disponible",
+      "url": "https://www.bumeran.com.pe/empleos/analista-de-indicadores-power-apps-python-sql-server-sodexo-peru-1116305368.html"
+    },
+    {
+      "id": 5,
+      "titulo": "Programador Python Senior - REMOTO",
+      "empresa": "CSTI Corp",
+      "ubicacion": "Surco, Lima",
+      "modalidad": "Presencial",
+      "tiempo_publicacion": "Actualizado hace más de 15 días",
+      "calificacion": "3.9",
+      "url": "https://www.bumeran.com.pe/empleos/programador-python-senior-remoto-csti-corp-1116569862.html"
+    },
+    {
+      "id": 6,
+      "titulo": "Programador Python - Senior",
+      "empresa": "CSTI Corp",
+      "ubicacion": "Lima, Lima",
+      "modalidad": "Remoto",
+      "tiempo_publicacion": "Actualizado hace más de 15 días",
+      "calificacion": "No disponible",
+      "url": "https://www.bumeran.com.pe/empleos/programador-python-senior-csti-corp-1116561896.html"
+    },
+    {
+      "id": 7,
+      "titulo": "Desarrollador Python",
+      "empresa": "Crazy Llama",
+      "ubicacion": "Lima, Lima",
+      "modalidad": "Presencial",
+      "tiempo_publicacion": "Publicado hace más de 30 días",
+      "calificacion": "No disponible",
+      "url": "https://www.bumeran.com.pe/empleos/desarrollador-python-crazy-llama-1116556064.html"
+    },
+    {
+      "id": 8,
+      "titulo": "Analista de Datos-ETLs, Python, Linux-Lima",
+      "empresa": "INDRA PERU",
+      "ubicacion": "Lima, Lima",
+      "modalidad": "Presencial",
+      "tiempo_publicacion": "Actualizado hace más de 30 días",
+      "calificacion": "4.1",
+      "url": "https://www.bumeran.com.pe/empleos/analista-de-datos-etls-python-linux-lima-indra-peru-1116559026.html"
+    },
+    {
+      "id": 9,
+      "titulo": "Analista Programador Python - Proyecto 3 meses",
+      "empresa": "Protiviti Perú",
+      "ubicacion": "San Isidro, Lima",
+      "modalidad": "Remoto",
+      "tiempo_publicacion": "Actualizado hace más de 30 días",
+      "calificacion": "No disponible",
+      "url": "https://www.bumeran.com.pe/empleos/analista-programador-python-proyecto-3-meses-protiviti-peru-1116557915.html"
+    },
+    {
+      "id": 10,
+      "titulo": "Buscamos: Desarrollador(a) Python y Especialista en Odoo / Trabajo remoto",
+      "empresa": "Hola Cliente Marketing Digital",
+      "ubicacion": "Lima, Lima",
+      "modalidad": "Presencial",
+      "tiempo_publicacion": "Actualizado hace más de 15 días",
+      "calificacion": "No disponible",
+      "url": "https://www.bumeran.com.pe/empleos/buscamos-desarrolladora-python-y-especialista-en-odoo-trabajo-remoto-hola-cliente-marketing-digital-1116554517.html"
+    },
+    {
+      "id": 11,
+      "titulo": "Analista de Modelos Estadísticos - Python/R y SQL",
+      "empresa": "CAJA RURAL DE AHORRO Y CREDITO CAT PERÚ S.A.",
+      "ubicacion": "Miraflores, Lima",
+      "modalidad": "Híbrido",
+      "tiempo_publicacion": "Actualizado hace más de 15 días",
+      "calificacion": "3.3",
+      "url": "https://www.bumeran.com.pe/empleos/analista-de-modelos-estadisticos-python-r-y-sql-caja-rural-de-ahorro-y-credito-cat-peru-s.a.-1116554787.html"
+    },
+    {
+      "id": 12,
+      "titulo": "Desarrollador Backend (Python)",
+      "empresa": "CSTI Corp",
+      "ubicacion": "Lima, Lima",
+      "modalidad": "Presencial",
+      "tiempo_publicacion": "Actualizado hace más de 15 días",
+      "calificacion": "3.9",
+      "url": "https://www.bumeran.com.pe/empleos/desarrollador-backend-python-csti-corp-1116548190.html"
+    },
+    {
+      "id": 13,
+      "titulo": "Analista Programador .Net (Python)",
+      "empresa": "GLOBAL HITSS",
+      "ubicacion": "La Victoria, Lima",
+      "modalidad": "Híbrido",
+      "tiempo_publicacion": "Actualizado hace más de 30 días",
+      "calificacion": "No disponible",
+      "url": "https://www.bumeran.com.pe/empleos/analista-programador-.net-python-global-hitss-1116527173.html"
+    },
+    {
+      "id": 14,
+      "titulo": "Desarrollador Junior en Python",
+      "empresa": "Confidencial",
+      "ubicacion": "Miraflores, Lima",
+      "modalidad": "Remoto",
+      "tiempo_publicacion": "Actualizado hace más de 30 días",
+      "calificacion": "No disponible",
+      "url": "https://www.bumeran.com.pe/empleos/desarrollador-junior-en-python-1116508822.html"
+    },
+    {
+      "id": 15,
+      "titulo": "Desarrollador FullStack Python / Vue",
+      "empresa": "CSTI Corp",
+      "ubicacion": "Lima, Lima",
+      "modalidad": "Remoto",
+      "tiempo_publicacion": "Actualizado hace 7 días",
+      "calificacion": "No disponible",
+      "url": "https://www.bumeran.com.pe/empleos/desarrollador-fullstack-python-vue-csti-corp-1116507429.html"
+    },
+    {
+      "id": 16,
+      "titulo": "Analista Programador .Net (Python)",
+      "empresa": "GLOBAL HITSS",
+      "ubicacion": "La Victoria, Lima",
+      "modalidad": "Híbrido",
+      "tiempo_publicacion": "Actualizado hace más de 30 días",
+      "calificacion": "No disponible",
+      "url": "https://www.bumeran.com.pe/empleos/analista-programador-.net-python-global-hitss-1116507002.html"
+    }
+  ]
+}
